@@ -13,7 +13,7 @@ Each course has multiple sections which usually will have couple of files
 
 As such you can go through these in any sequence as they fit your requirement in the moment, for an absolute beginner [having some recall of maths studied in school] i will suggest following sequence 
 
-[Also best way to go through this would be to clone the repo on your machine , i am sure you will have a better pdf viewer than the browser window with github]
+**[Also best way to go through this would be to clone the repo on your machine , i am sure you will have a better pdf viewer than the browser window with github]**
 
 ## 0. Basics of Python and Data Processing 
 
