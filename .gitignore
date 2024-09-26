@@ -13,4 +13,3 @@ __pycache__/
 *.png
 *.webp
 Consumer_Complaints_train.csv
-.gitignore
