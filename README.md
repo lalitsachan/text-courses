@@ -13,7 +13,7 @@ Each course has multiple sections which usually will have couple of files
 
 As such you can go through these in any sequence as they fit your requirement in the moment, for an absolute beginner [having some recall of maths studied in school] i will suggest following sequence 
 
-## Basics of Python and Data Processing 
+## 0. Basics of Python and Data Processing 
 
 * [Python Fundamentals](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/0.%20Python%20Programming)
 
@@ -26,7 +26,7 @@ Some example dataset is used here to showcase the functionalities, it might be m
 
 As far as building actual machine learning models on your data is concerned, i will rate this particular section to be the most important one. Remeber that good data always beats a better algorithm. Do spend good time here, and make sure that you go beyond given examples and build data processing pipelines for your own data
 
-## Machine Learning Fundamentals
+## 1. Machine Learning Fundamentals
 
 * [Intro to Machine Learning](https://github.com/lalitsachan/text-courses/tree/main/1.Machine%20Learning%20Fundamentals/0.%20Introduction%20to%20Machine%20Learning)
 
