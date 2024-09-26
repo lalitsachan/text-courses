@@ -1,3 +1,4 @@
+issues and suggestions : https://github.com/lalitsachan/text-courses/issues
 Purpose of these courses is to give you a good start in your "machine learning" learning journey. Motivation for developing a separate resource as this are as follows 
 
 * Creating a single destination for beginners [and myself] with proper sequence of resources as much as possible 
@@ -49,6 +50,7 @@ As the last section of machine learning fundamentals , it has two goals: 1: brin
 * Make your own notes , despite having all this material given to you. Making your own notes is one very efficient way for your brain to retain the concepts that you are going through . 
 
 Good luck with all the learning , and let us know if you find any issues or have any suggestions 
+issues and suggestions : https://github.com/lalitsachan/text-courses/issues
 
 
 
