@@ -34,7 +34,7 @@ goal of this section is to give you some context as to what we are trying to ach
 * [Linear Algebra for ML](https://github.com/lalitsachan/text-courses/tree/main/1.Machine%20Learning%20Fundamentals/1.%20Linear%20Algebra)
 * [Calculus for ML](https://github.com/lalitsachan/text-courses/tree/main/1.Machine%20Learning%20Fundamentals/2.%20Calculus)
 
-both of these section above are not complete courses in linear algebra and calculus; and they shouldnt be in that context either. I have discussed and tried to give you intuition about the concepts in linear algebra and calculus here which get used and utilised in ML in many places and without clarity about these ideas you will feel more and more lost as you progress in ML journey
+both of these section above are not complete courses in linear algebra and calculus; and they shouldnt be used in that context either. I have discussed and tried to give you intuition about the concepts in linear algebra and calculus here which get used and utilised in ML in many places and without clarity about these ideas you will feel more and more lost as you progress in ML journey
 * [Optimisation for ML](https://github.com/lalitsachan/text-courses/tree/main/1.Machine%20Learning%20Fundamentals/3.%20Optimisers%20for%20ML)
 * [Linear Models](https://github.com/lalitsachan/text-courses/tree/main/1.Machine%20Learning%20Fundamentals/4.%20Linear%20Models)
 
