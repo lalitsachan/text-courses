@@ -38,5 +38,18 @@ both of these section above are not complete courses in linear algebra and calcu
 
 As the last section of machine learning fundamentals , it has two goals: 1: bring everything that we have studied so far together to build our first few models. 2: to get you acquanted with the machinery and processes which exists in `sklearn` and elsewhere to help you build your solution. What you learn here can be seamlessely used when we move to more advanced algorithms later on.
 
+## Some Thoughts on How to learn for aspiring learners 
+
+* Learning is almost never linear. Meaning, things will not make sense to you in same sequence in which you are reading them. Some concepts will click, many at times when you are reading something entirely different. Give yourself that time, be patient. Go through ideas and lessons multiple times.
+* When you go through something second time, it makes more sense because you have gathered more context and it becomes easier to connect the dots. Lesson here is that, don't get hung up on one point if  it doesn't make sense. Go through the entire chapter and its quite possible that with greater context; you'll be able to connect the dots better.
+* There is absolutely no other way to learn programming than to code yourself . You'll never learn programming by just reading a book or just watching a video .
+* While programming, if you remember syntax, it enables you to be faster while you code. But mugging up syntax is not the goal of learning to program. Syntax is something that you'll start to retain more and more of, as and when you spend more and more time coding. Focus more on logic of things .
+* Any programming language has an overall theme for doing things in a certain way. Don't get too hung up on why it doesn't behave in exactly the same way you expected it to. Especially when you are at the very beginning of your learning to program curve; its ok to accept few things as `it is the way it is`
+* Many chapters will be mathematically heavy , most of the time it'll be difficult to get it all in one go. Keep in mind that, if you understand the mathematics, it makes you more confident as a data scientist . But it's **<u>not</u>** absolutely pivotal in you solving the problem using programming concept that you learn. Many seasoned data scientists in industry do not fully understand everything which goes under the hood. Don't let that become a hurdle point for you. But make sure that you keep on coming back to fundamentals until they make sense to you, dont abandon this effort.
+* Make your own notes , despite having all this material given to you. Making your own notes is one very efficient way for your brain to retain the concepts that you are going through . 
+
+Good luck with all the learning , and let us know if you find any issues or have any suggestions 
+
+
 
 
