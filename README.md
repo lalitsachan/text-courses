@@ -15,7 +15,7 @@ As such you can go through these in any sequence as they fit your requirement in
 
 * [Python Fundamentals](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/0.%20Python%20Programming)
 
-its essential that you run the python notebooks along with these lessons. There is no way you can learn programming with programming. Write code, fail, resolve issues and move on to the next idea. Thats the only way to learn programming. 
+its essential that you run the python notebooks along with these lessons. There is no way you can learn programming without programming yourself. Write code, fail, resolve issues and move on to the next idea. Thats the only way to learn programming. 
 * [Data Exploration with numpy and pandas](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/1.Numpy%20and%20Pandas)
 
 Some example dataset is used here to showcase the functionalities, it might be more fun for you to use these ideas with your own dataset for which you have better context. I will advise you to get a sizable dataset if you are going to replace the example dataset that we are using here
