@@ -1,4 +1,5 @@
 issues and suggestions : https://github.com/lalitsachan/text-courses/issues
+
 Purpose of these courses is to give you a good start in your "machine learning" learning journey. Motivation for developing a separate resource as this are as follows 
 
 * Creating a single destination for beginners [and myself] with proper sequence of resources as much as possible 
