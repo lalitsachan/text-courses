@@ -50,8 +50,7 @@ As the last section of machine learning fundamentals , it has two goals: 1: brin
 * Many chapters will be mathematically heavy , most of the time it'll be difficult to get it all in one go. Keep in mind that, if you understand the mathematics, it makes you more confident as a data scientist . But it's **<u>not</u>** absolutely pivotal in you solving the problem using programming concept that you learn. Many seasoned data scientists in industry do not fully understand everything which goes under the hood. Don't let that become a hurdle point for you. But make sure that you keep on coming back to fundamentals until they make sense to you, dont abandon this effort.
 * Make your own notes , despite having all this material given to you. Making your own notes is one very efficient way for your brain to retain the concepts that you are going through . 
 
-Good luck with all the learning , and let us know if you find any issues or have any suggestions 
-issues and suggestions : https://github.com/lalitsachan/text-courses/issues
+Good luck with all the learning , and let us know if you find any issues or have any suggestions : https://github.com/lalitsachan/text-courses/issues
 
 
 
