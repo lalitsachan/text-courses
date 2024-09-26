@@ -40,6 +40,13 @@ both of these section above are not complete courses in linear algebra and calcu
 
 As the last section of machine learning fundamentals , it has two goals: 1: bring everything that we have studied so far together to build our first few models. 2: to get you acquanted with the machinery and processes which exists in `sklearn` and elsewhere to help you build your solution. What you learn here can be seamlessely used when we move to more advanced algorithms later on.
 
+Other courses in the pipeline which will appear here : 
+* Non Linear Models in Machine Learning
+* Unsupervised Learning For Tabular Data
+* Introduction to Deep Learning with Keras and Pytorch
+* Deep Learning for Images and Sequence Data
+* Probability Distributions and Hypothesis Testing
+
 ## Some Thoughts on How to learn for aspiring learners 
 
 * Learning is almost never linear. Meaning, things will not make sense to you in same sequence in which you are reading them. Some concepts will click, many at times when you are reading something entirely different. Give yourself that time, be patient. Go through ideas and lessons multiple times.
