@@ -15,6 +15,9 @@ As such you can go through these in any sequence as they fit your requirement in
 
 **[Also best way to go through this would be to clone/download the repository on your machine , i am sure you will have a better pdf viewer than the browser window with github]**
 
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/5de74732-4d65-4ff8-a4ee-2c74efedfb82">
+
+
 ## 0. Basics of Python and Data Processing 
 
 * [Python Fundamentals](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/0.%20Python%20Programming)
