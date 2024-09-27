@@ -14,6 +14,7 @@ Each course has multiple sections which usually will have couple of files
 As such you can go through these in any sequence as they fit your requirement in the moment, for an absolute beginner [having some recall of maths studied in school] i will suggest following sequence 
 
 **[Also best way to go through this would be to clone/download the repository on your machine , i am sure you will have a better pdf viewer than the browser window with github]**
+below is an image : [go here](https://github.com/lalitsachan/text-courses/tree/main) click on "code" dropdown , select the option that you know how to work with. 
 
 <img width="966" alt="image" src="https://github.com/user-attachments/assets/5de74732-4d65-4ff8-a4ee-2c74efedfb82">
 
