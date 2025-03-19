@@ -25,10 +25,9 @@ below is an image : [go here](https://github.com/lalitsachan/text-courses/tree/m
 
 its essential that you run the python notebooks along with these lessons. There is no way you can learn programming without programming yourself. Write code, fail, resolve issues and move on to the next idea. Thats the only way to learn programming. 
 * [Data Exploration with numpy and pandas](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/1.Numpy%20and%20Pandas)
-* [Data Visualisation with seaborn](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/2.%20Data%20Visualisation%20With%20Seaborn)
 
 Some example dataset is used here to showcase the functionalities, it might be more fun for you to use these ideas with your own dataset for which you have better context. I will advise you to get a sizeable dataset if you are going to replace the example dataset that we are using here
-
+* [Data Visualisation with seaborn](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/2.%20Data%20Visualisation%20With%20Seaborn)
 * [Data Processing Pipeline](https://github.com/lalitsachan/text-courses/tree/main/0.Basics%20of%20Python%20and%20Data%20Processing/3.%20Data%20Processing%20Pipelines%20with%20sklearn)
 
 As far as building actual machine learning models on your data is concerned, i will rate this particular section to be the most important one. Remember that good data always beats a better algorithm. Do spend good time here, and make sure that you go beyond given examples and build data processing pipelines for your own data
@@ -48,9 +47,8 @@ both of these section above are not complete courses in linear algebra and calcu
 As the last section of machine learning fundamentals , it has two goals: 1: bring everything that we have studied so far together to build our first few models. 2: to get you acquainted with the machinery and processes which exists in `sklearn` and elsewhere to help you build your solution. What you learn here can be seamlessly used when we move to more advanced algorithms later on.
 
 Other courses in the pipeline which will appear here : 
-* Non Linear Models in Machine Learning
 * Unsupervised Learning For Tabular Data
-* Introduction to Deep Learning with Keras and Pytorch
+* Introduction to Deep Learning with Pytorch
 * Deep Learning for Images and Sequence Data
 * Probability Distributions and Hypothesis Testing
 
